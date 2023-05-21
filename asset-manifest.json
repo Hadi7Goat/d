@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.938940e5.css",
+    "main.js": "/static/js/main.cffa94e3.js",
+    "static/media/Groupe 104.png": "/static/media/Groupe 104.e035e3b619435013bd77.png",
+    "static/media/101.png": "/static/media/101.f9fee28c7883c3d9aab7.png",
+    "static/media/saidatyimg.png": "/static/media/saidatyimg.fdde8ebe7a9e29a8ed19.png",
+    "static/media/Zourney-Heading.ttf": "/static/media/Zourney-Heading.473c0637799277a4b7a1.ttf",
+    "static/media/Hacen-Eltaroute-Text.ttf": "/static/media/Hacen-Eltaroute-Text.26184266c610be186802.ttf",
+    "static/media/A Arghavan Bold.ttf": "/static/media/A Arghavan Bold.4eb16061eb46c06156a7.ttf",
+    "index.html": "/index.html",
+    "main.938940e5.css.map": "/static/css/main.938940e5.css.map",
+    "main.cffa94e3.js.map": "/static/js/main.cffa94e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.938940e5.css",
+    "static/js/main.cffa94e3.js"
+  ]
+}
